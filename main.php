@@ -3,4 +3,5 @@
   include("index.html");
   echo "TEST add code";      
   echo "This line was added via notepadd++.";
+  echo "This line was added via browser.";
 ?>
